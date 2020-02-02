@@ -1,0 +1,9 @@
+#demo/example
+
+*.zip
+*.gs
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/video/
+access.log
